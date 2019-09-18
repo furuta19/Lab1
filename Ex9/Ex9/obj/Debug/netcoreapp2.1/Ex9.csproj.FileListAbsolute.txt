@@ -1,0 +1,11 @@
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\bin\Debug\netcoreapp2.1\Ex9.deps.json
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\bin\Debug\netcoreapp2.1\Ex9.runtimeconfig.json
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\bin\Debug\netcoreapp2.1\Ex9.runtimeconfig.dev.json
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\bin\Debug\netcoreapp2.1\Ex9.dll
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\bin\Debug\netcoreapp2.1\Ex9.pdb
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\obj\Debug\netcoreapp2.1\Ex9.csprojAssemblyReference.cache
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\obj\Debug\netcoreapp2.1\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\obj\Debug\netcoreapp2.1\Ex9.AssemblyInfoInputs.cache
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\obj\Debug\netcoreapp2.1\Ex9.AssemblyInfo.cs
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\obj\Debug\netcoreapp2.1\Ex9.dll
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex9\Ex9\obj\Debug\netcoreapp2.1\Ex9.pdb

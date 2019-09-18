@@ -1,0 +1,10 @@
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\bin\Debug\netcoreapp2.1\Ex8.deps.json
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\bin\Debug\netcoreapp2.1\Ex8.runtimeconfig.json
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\bin\Debug\netcoreapp2.1\Ex8.runtimeconfig.dev.json
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\bin\Debug\netcoreapp2.1\Ex8.dll
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\bin\Debug\netcoreapp2.1\Ex8.pdb
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\obj\Debug\netcoreapp2.1\Ex8.csproj.CoreCompileInputs.cache
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\obj\Debug\netcoreapp2.1\Ex8.AssemblyInfoInputs.cache
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\obj\Debug\netcoreapp2.1\Ex8.AssemblyInfo.cs
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\obj\Debug\netcoreapp2.1\Ex8.dll
+C:\Users\ПУДГЕ\source\repos\Lab1\Ex8\Ex8\obj\Debug\netcoreapp2.1\Ex8.pdb
