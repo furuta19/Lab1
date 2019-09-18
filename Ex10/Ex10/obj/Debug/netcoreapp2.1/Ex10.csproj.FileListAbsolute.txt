@@ -1,0 +1,10 @@
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\bin\Debug\netcoreapp2.1\Ex10.deps.json
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\bin\Debug\netcoreapp2.1\Ex10.runtimeconfig.json
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\bin\Debug\netcoreapp2.1\Ex10.runtimeconfig.dev.json
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\bin\Debug\netcoreapp2.1\Ex10.dll
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\bin\Debug\netcoreapp2.1\Ex10.pdb
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\obj\Debug\netcoreapp2.1\Ex10.csproj.CoreCompileInputs.cache
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\obj\Debug\netcoreapp2.1\Ex10.AssemblyInfoInputs.cache
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\obj\Debug\netcoreapp2.1\Ex10.AssemblyInfo.cs
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\obj\Debug\netcoreapp2.1\Ex10.dll
+C:\Users\ПУДГЕ\source\repos\Ex10\Ex10\obj\Debug\netcoreapp2.1\Ex10.pdb
